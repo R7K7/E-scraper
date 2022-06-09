@@ -1,7 +1,7 @@
 # E-scarper
 This is a python based email snatching tool
 
-The tool searches for 100 related websites to search for emails 
+The tool searches for 100 websites to search for emails 
 
 HOW TO USE-
 
